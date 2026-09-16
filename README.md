@@ -4,4 +4,7 @@
 
 ## About Me 🚀
 
-Environmental Engineer and Geospatial Data Analyst with over 7 years of professional experience in spatial data analysis, Geographic Information Systems (GIS) modelling, Remote Sensing and Machine Learning. Specialised in applying geospatial tools to aquaculture, fisheries, zoning and marine environmental research. Proficient in Python, SQL, Google Earth Engine, QGIS, and ArcGIS. Experienced in leading geospatial projects, managing data pipelines, and communicating findings to diverse stakeholders including government agencies and international organisations.
+I'm an Environmental Engineer and Geospatial Data Analyst focused on geospatial data science, remote sensing, and machine learning for marine and environmental monitoring — especially aquaculture site selection and coastal zoning.
+I work across the full pipeline — from raster and vector data processing to ML-driven analysis and cloud-based infrastructure — to make geospatial modelling more accessible and actionable for aquaculture, fisheries, and marine environmental research.
+
+### Open-source projects
